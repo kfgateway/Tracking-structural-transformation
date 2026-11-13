@@ -55,9 +55,3 @@ See `data/README.md` for data sources, licenses, and documented caveats.
 - **Causal design**: difference-in-differences (treated = units renewed between
   pre and post census) with propensity-score matching, a parallel-trends
   falsification test on the pre-period, and spatial-lag/-error robustness.
-
-## Declaration of generative AI use
-
-An AI assistant was used to help implement and document this analysis code. All
-methods, constants, and outputs were verified against primary sources and the
-input data by the authors, who take full responsibility for the content.
